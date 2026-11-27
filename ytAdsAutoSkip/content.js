@@ -79,7 +79,7 @@ function trySkip() {
             console.log("Klik tidak berhasil, lompat ke akhir iklan");
             video.currentTime = video.duration;
         }
-    }, 400);
+    }, 100);
 }
 
 setInterval(trySkip, 500);
