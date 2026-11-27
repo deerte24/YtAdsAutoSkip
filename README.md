@@ -1,6 +1,9 @@
 # Overview
 This is a project for my personal web browser (Opera GX). Usually, when watching YouTube and an ad appears, users sometimes can’t click the “skip ad” button for various reasons. A similar add-on actually exists for Opera GX, but it doesn’t work well, so based on that experience, I created this add-on, and so far (Version 1.0), it’s working well.
 
+Little Update here! version 1.1 (27 - 11 - 2026):
+- Fix the speed of button click, so now the add-on will click faster when skip button appear.
+
 Note: This add-on will only click the “skip ads” button when it appears; it does not skip ads automatically.
 
 # Browser usage
