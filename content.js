@@ -82,4 +82,4 @@ function trySkip() {
     }, 100);
 }
 
-setInterval(trySkip, 500);
+setInterval(trySkip, 100);
